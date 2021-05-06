@@ -6,4 +6,7 @@ public class first {
 		System.out.println("first");
 	}
 	
+	public void my(){
+		System.out.print("my");
+	}
 }
