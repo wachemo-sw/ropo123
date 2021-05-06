@@ -5,5 +5,5 @@ public class dd {
 		System.out.println("bbvvbvbvbvb");
 	
 }
-	rtyrtyrtrtyrtrtyryryf
+	//rtyrtyrtrtyrtrtyryryf
 }
